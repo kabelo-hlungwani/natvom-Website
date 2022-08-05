@@ -1,0 +1,2 @@
+1.unzip the admin compressed file into the system folder 
+2.import the db in to xampp mysql
